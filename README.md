@@ -1,8 +1,7 @@
 # NETHERING — Tu Servidor de Minecraft, Simplificado y en Segundos
 
-<p align="center">
-  <img src="Imagenes/Captura de pantalla de 2026-10-26 17-28-49.png" alt="Vista previa del panel" width="800">
-</p>
+<img width="510" height="834" alt="nether" src="https://github.com/user-attachments/assets/ab6549e5-5517-4bc9-9d5a-093f6ad06120" />
+
 **NETHERING** es una plataforma cloud de alto rendimiento para alojar servidores de Minecraft con un control total y sin complicaciones técnicas. Olvídate de configuraciones imposibles o paneles lentos: elige tus recursos, personaliza tu experiencia y gestiona tu comunidad con la potencia de la virtualización moderna y aislamiento dedicado.
 
 ##  ¿Por qué NETHERING?
